@@ -82,16 +82,15 @@
 
 ![깃플로우3](Git.assets/gitflow3.png)
 
- 1. Shared Reposiroty Model : 해당 프로젝트 저장소에 직접적인 Push 권한 있음
+- Shared Repository Model : 해당 프로젝트 저장소에 직접적인 Push 권한 있음
 
- 2. Fork and Pull Model : 해당 프로젝트 저장소에 직접적인 Push 권한 없음
+- Fork and Pull Model : 해당 프로젝트 저장소에 직접적인 Push 권한 없음
+  - remote repo 생성
+  - Fork
 
-    - remote repo 생성
-    - Fork
-
-    - loacl repo로 clone
-    - branch 생성해서 작업 후 push
-    - base repo master에게 PR
+  - loacl repo로 clone
+  - branch 생성해서 작업 후 push
+  - base repo master에게 PR
 
 ---
 
