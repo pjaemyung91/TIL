@@ -2,9 +2,9 @@
 
 1. 서버에서 업무 처리
 
-   ![강의자료](210927_springboot_2.assets/210927_9.png)
+   ![강의자료](servlet.assets/210927_9.png)
 
-   ![강의자료](210927_springboot_2.assets/210927_10.png)
+   ![강의자료](servlet.assets/210927_10.png)
 
 2. 서블릿
 
@@ -26,7 +26,7 @@
      3. HTTP 응답 정보를 편리하게 제공할 수 있는 HttpServletResponse
      4. 개발자는 HTTP 스펙을 매우 편리하게 사용
 
-   ![210927_11](210927_springboot_2.assets/210927_11.png)
+   ![210927_11](servlet.assets/210927_11.png)
 
    - HTTP 요청, 응답 흐름
      1. HTTP 요청 시
@@ -37,7 +37,7 @@
 
    - 서블릿 컨테이너
 
-   ![210927_12](210927_springboot_2.assets/210927_12.png)
+   ![210927_12](servlet.assets/210927_12.png)
 
    1. 톰캣처럼 서블릿을 지원하는 WAS를 서블릿 컨테이너라고 함
    2. 서블릿 컨테이너는 서블릿 객체를 생성, 초기화, 호출, 종료하는 생명주기 관리
